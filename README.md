@@ -5,3 +5,5 @@ This project focuses on predicting the presence of diabetes using demographic, b
 - Key predictors investigated include age, body mass index (BMI), salad and sugary drink consumption, and marital status.
 This project not only applies machine learning for health prediction but also highlights how biological, lifestyle, and social factors jointly contribute to chronic disease risk.
 
+Brief details are mentioned in the poster.pdf.
+
